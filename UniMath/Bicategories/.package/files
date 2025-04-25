@@ -438,6 +438,7 @@ ComprehensionCat/BicatOfCompCat/DispCatTerminal.v
 ComprehensionCat/BicatOfCompCat/FibTerminal.v
 ComprehensionCat/BicatOfCompCat/CompCat.v
 ComprehensionCat/BicatOfCompCat/FullCompCat.v
+ComprehensionCat/BicatOfCompCat/SubcategoricalCompCat.v
 ComprehensionCat/BicatOfCompCat.v
 ComprehensionCat/CompCatNotations.v
 ComprehensionCat/TypeFormers/UnitTypes.v

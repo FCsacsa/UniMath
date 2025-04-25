@@ -1294,6 +1294,7 @@ The packages and files are listed here in logical order: each file depends only 
    - [ComprehensionCat/BicatOfCompCat/FibTerminal.v](Bicategories/ComprehensionCat/BicatOfCompCat/FibTerminal.v)
    - [ComprehensionCat/BicatOfCompCat/CompCat.v](Bicategories/ComprehensionCat/BicatOfCompCat/CompCat.v)
    - [ComprehensionCat/BicatOfCompCat/FullCompCat.v](Bicategories/ComprehensionCat/BicatOfCompCat/FullCompCat.v)
+   - [ComprehensionCat/BicatOfCompCat/SubcategoricalCompCat.v](Bicategories/ComprehensionCat/BicatOfCompCat/SubcategoricalCompCat.v)
    - [ComprehensionCat/BicatOfCompCat.v](Bicategories/ComprehensionCat/BicatOfCompCat.v)
    - [ComprehensionCat/CompCatNotations.v](Bicategories/ComprehensionCat/CompCatNotations.v)
    - [ComprehensionCat/TypeFormers/UnitTypes.v](Bicategories/ComprehensionCat/TypeFormers/UnitTypes.v)
