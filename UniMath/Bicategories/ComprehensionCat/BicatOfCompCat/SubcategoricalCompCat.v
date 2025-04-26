@@ -9,6 +9,9 @@ A subcategorical comprehension category is a comprehension category,
 whose comprehension functor χ is a subcategory inclusion, ie. full, faithful, and injective on objects.\
 Full and faithful will be given by the base of full comprehension categories.
 
+References:
+- Definition 7 from "Comparing semantic frameworks for dependently-sorted algebraic theories", by B. Ahrens, P. L. Lumsdaine and P. R. North, doi: 10.1090/conm/092/1003199
+
 Contents
 1. The bicategory of subcategorical comprehension categories
 2. The univalence of the bicategory of subcategorical comprehension categories
